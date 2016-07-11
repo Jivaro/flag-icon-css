@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-40 0h682.67v512H-40z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)" fill-rule="evenodd" transform="translate(37.5) scale(.94)">
-    <path fill="#0c0" d="M-40 0h768v512H-40z"/>
-    <path fill="#69f" d="M-40 0h768v256H-40z"/>
-    <path d="M-40 0l382.73 255.67L-40 511.01V0z" fill="#fffefe"/>
-    <path d="M119.8 292.07l-30.82-22.18-30.67 22.4 11.407-36.41-30.613-22.48 37.874-.31 11.747-36.3 12 36.216 37.874.048-30.458 22.695 11.66 36.328z" fill="red"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>dj</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dj">
+            <g>
+                <rect id="Rectangle-54" fill="#6699FF" x="0" y="0" width="122" height="30"></rect>
+                <rect id="Rectangle-54" fill="#00CC00" x="0" y="30" width="122" height="30"></rect>
+                <polygon id="Rectangle-56" fill="#FFFEFE" points="0 0 45 30 0 60"></polygon>
+                <polygon id="Shape" fill="#FF0000" points="20.4379935 35.1840604 16.8333668 32.5805501 13.2462836 35.2098842 14.5804166 30.9360425 11 28.2973179 15.4296442 28.2609298 16.8035426 24 18.2070313 28.2510698 22.6366755 28.2567041 19.0743873 30.9206656 20.4381105 35.1848821"></polygon>
+            </g>
+        </g>
+    </g>
 </svg>

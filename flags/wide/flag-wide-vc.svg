@@ -1,8 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <g fill-rule="evenodd">
-    <path fill="#f4f100" d="M0 0h640v480H0z"/>
-    <path fill="#199a00" d="M490 0h150v480H490z"/>
-    <path fill="#0058aa" d="M0 0h150v480H0z"/>
-    <path d="M259.26 129.95l-46.376 71.391 44.748 74.391 43.82-73.735-42.192-72.046zM380.54 129.95l-46.376 71.391 44.748 74.391 43.82-73.735-42.192-72.046zM319.28 227.34l-46.376 71.391 44.748 74.391 43.82-73.735-42.192-72.046z" fill="#199a00"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>vc</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vc">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#F4F100" points="21 0 101 0 101 60 21 60"></polygon>
+                    <polygon id="Shape" fill="#199A00" points="82 0 122 0 122 60 82 60"></polygon>
+                    <polygon id="Shape" fill="#0058AA" points="0 0 40 0 40 60 0 60"></polygon>
+                    <path d="M53.4075,16.24375 L47.6105,25.167625 L53.204,34.4665 L58.6815,25.249625 L53.4075,16.243875 L53.4075,16.24375 Z M68.5675,16.24375 L62.7705,25.167625 L68.364,34.4665 L73.8415,25.249625 L68.5675,16.243875 L68.5675,16.24375 Z M60.91,28.4175 L55.113,37.341375 L60.7065,46.64025 L66.184,37.423375 L60.91,28.417625 L60.91,28.4175 Z" id="Shape" fill="#199A00"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

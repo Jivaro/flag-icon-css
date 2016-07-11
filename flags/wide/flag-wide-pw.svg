@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-70.28 0h640v480h-640z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(70.28)" stroke-width="1pt">
-    <path fill="#4aadd6" d="M-173.44 0h846.32v480h-846.32z"/>
-    <path d="M335.633 232.117a135.876 130.111 0 1 1-271.752 0 135.876 130.111 0 1 1 271.752 0z" fill="#ffde00"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>pw</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pw">
+            <g>
+                <rect id="Rectangle-228" fill="#4AADD6" x="0" y="0" width="122" height="60"></rect>
+                <path d="M62.614125,29.014625 C62.614125,37.9969151 55.0099053,45.2785 45.629625,45.2785 C36.2493447,45.2785 28.645125,37.9969151 28.645125,29.014625 C28.645125,20.0323349 36.2493447,12.75075 45.629625,12.75075 C55.0099053,12.75075 62.614125,20.0323349 62.614125,29.014625 L62.614125,29.014625 Z" id="Shape" fill="#FFDE00"></path>
+            </g>
+        </g>
+    </g>
 </svg>

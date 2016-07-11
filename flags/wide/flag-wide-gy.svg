@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <g fill-rule="evenodd">
-    <path fill="#399408" d="M2.426 0h637.557v480H2.426z"/>
-    <path d="M.167 0C-.67.073 619.765 241.48 619.765 241.48L-.005 479.77.166 0z" fill="#fff"/>
-    <path d="M.28 20.186c3.462 0 559.053 217.89 555.893 220.03L1.867 463.266.287 20.186z" fill="#ffde08"/>
-    <path d="M1.863.783c1.848 0 290.94 240.92 290.94 240.92L1.863 476.983V.783z"/>
-    <path d="M.28 33.902c1.658-14.986 260.9 208.4 260.9 208.4L.268 451.702V33.912z" fill="#de2110"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>gy</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gy">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#399408" points="0.42825 0 122 0 122 60 0.42825 60"></polygon>
+                    <path d="M0.0215,0 C-0.083125,0.009125 77.47125,30.185 77.47125,30.185 L0,59.97125 L0.021375,0 L0.0215,0 Z" id="Shape" fill="#FFFFFF"></path>
+                    <path d="M0,2.52325 C0.43275,2.52325 69.881625,29.7595 69.486625,30.027 L0.198375,57.90825 L0.000875,2.52325 L0,2.52325 Z" id="Shape" fill="#FFDE08"></path>
+                    <path d="M0,0.097875 C0.231,0.097875 36.3675,30.212875 36.3675,30.212875 L0,59.622875 L0,0.097875 L0,0.097875 Z" id="Shape" fill="#000000"></path>
+                    <path d="M0.0015,4.23775 C0.20875,2.3645 32.614,30.28775 32.614,30.28775 L0,56.46275 L0,4.239 L0.0015,4.23775 Z" id="Shape" fill="#DE2110"></path>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

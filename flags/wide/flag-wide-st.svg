@@ -1,15 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M0 0h682.67v512H0z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)" fill-rule="evenodd" transform="scale(.9375)">
-    <path fill="#ff0" d="M0 0h1024v504.3H0z"/>
-    <path fill="#009d00" d="M0 0h1024v146.29H0zM0 365.71h1024V512H0z"/>
-    <path d="M.708 0c1.417 0 255.29 253.03 255.29 253.03L-.002 512 .707 0z" fill="#f10600"/>
-    <g stroke-width="1pt">
-      <path d="M411.966 268.686l-31.97-23.896 39.499.04 12.174-38.705 12.173 38.705 39.5-.029-31.977 23.885 12.236 38.687-31.938-23.942-31.938 23.937zM215.048 268.686l-31.971-23.896 39.5.04 12.173-38.705 12.174 38.705 39.5-.029-31.977 23.885 12.235 38.687-31.938-23.942-31.937 23.937z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>st</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="st">
+            <g>
+                <rect id="Rectangle-247" fill="#009D00" x="0" y="0" width="122" height="17"></rect>
+                <rect id="Rectangle-247-Copy" fill="#009D00" x="0" y="43" width="122" height="17"></rect>
+                <rect id="Rectangle-247-Copy-2" fill="#FFFF00" x="0" y="17" width="122" height="26"></rect>
+                <path d="M0,0 C1.24859313,0 30.9200001,29.6519531 30.9200001,29.6519531 L0,60 L0,0 Z" id="Shape" fill="#F10600"></path>
+                <polygon id="Path" fill="#000000" points="49.2115716 31.5755185 45.4744534 28.7659944 50.0916705 28.7706973 51.5147445 24.220035 52.9377017 28.7706973 57.5550356 28.7672877 53.8170992 31.5755185 55.2474207 36.1240646 51.5140432 33.3091321 47.7806656 36.1234767"></polygon>
+                <polygon id="Path" fill="#000000" points="26.1929343 31.5755185 22.4556992 28.7659944 27.0730332 28.7706973 28.4959903 24.220035 29.9190644 28.7706973 34.5363983 28.7672877 30.7984619 31.5755185 32.2286665 36.1240646 28.495289 33.3091321 24.7620283 36.1234767"></polygon>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

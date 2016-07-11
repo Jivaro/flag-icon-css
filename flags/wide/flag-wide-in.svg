@@ -1,25 +1,206 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480" width="640" version="1">
-  <path fill="#f93" d="M0 0h640v160H0z"/>
-  <path fill="#fff" d="M0 160h640v160H0z"/>
-  <path fill="#128807" d="M0 320h640v160H0z"/>
-  <g transform="matrix(3.2 0 0 3.2 320 240)">
-    <circle r="20" fill="#008"/>
-    <circle r="17.5" fill="#fff"/>
-    <circle r="3.5" fill="#008"/>
-    <g id="d">
-      <g id="c">
-        <g id="b">
-          <g id="a" fill="#008">
-            <circle r=".875" transform="rotate(7.5 -8.75 133.5)"/>
-            <path d="M0 17.5L.6 7 0 2l-.6 5L0 17.5z"/>
-          </g>
-          <use height="100%" width="100%" xlink:href="#a" transform="rotate(15)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>in</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="in">
+            <g>
+                <g id="Group">
+                    <polygon id="Shape" fill="#FF9933" points="0 0 122 0 122 20 0 20"></polygon>
+                    <polygon id="Shape" fill="#FFFFFF" points="21 20 101 20 101 40 21 40"></polygon>
+                    <polygon id="Shape" fill="#128807" points="0 40 122 40 122 60 0 60"></polygon>
+                    <g transform="translate(45.800000, 11.200000)">
+                        <circle id="Oval" fill="#000088" cx="15.2" cy="18.8" r="8"></circle>
+                        <circle id="Oval" fill="#FFFFFF" cx="15.2" cy="18.8" r="7"></circle>
+                        <ellipse id="Oval" fill="#000088" cx="15.2" cy="18.8" rx="1.4" ry="1.4"></ellipse>
+                        <g id="d" transform="translate(1.200000, 12.000000)" fill="#000088">
+                            <g id="c" transform="translate(4.200000, 3.600000)">
+                                <g id="b" transform="translate(9.400000, 3.200000)">
+                                    <g id="a" transform="translate(0.000000, 0.400000)">
+                                        <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                        <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                    </g>
+                                    <g id="a-link" transform="translate(6.870468, 3.120284) rotate(15.000000) translate(-6.870468, -3.120284) translate(5.370468, 2.120284)">
+                                        <g id="a" transform="translate(0.042419, 0.060718)">
+                                            <ellipse id="Oval" transform="translate(1.340156, 0.513686) rotate(7.500000) translate(-1.340156, -0.513686) " cx="1.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="b-link" transform="translate(8.925527, 7.911445) rotate(30.000000) translate(-8.925527, -7.911445) translate(2.925527, 2.411445)">
+                                    <g id="b" transform="translate(1.001593, 0.982532)">
+                                        <g id="a" transform="translate(3.000000, 0.400000)">
+                                            <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                            <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                        </g>
+                                        <g id="a-link" transform="translate(5.384481, 4.578335) rotate(15.000000) translate(-5.384481, -4.578335) translate(0.884481, 1.078335)">
+                                            <g id="a" transform="translate(0.998179, -0.008711)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="c-link" transform="translate(9.523463, 9.846410) rotate(60.000000) translate(-9.523463, -9.846410) translate(2.323463, 3.246410)">
+                                <g id="c">
+                                    <g id="b" transform="translate(4.400000, 1.200000)">
+                                        <g id="a" transform="translate(2.000000, 0.400000)">
+                                            <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                            <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                        </g>
+                                        <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                            <g id="a">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="b-link" transform="translate(6.751666, 6.483717) rotate(30.000000) translate(-6.751666, -6.483717) translate(1.751666, 1.883717)">
+                                        <g id="b">
+                                            <g id="a" transform="translate(2.000000, 0.400000)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                            <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                <g id="a">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="d-link" transform="translate(14.201924, 14.528719) rotate(120.000000) translate(-14.201924, -14.528719) translate(3.401924, 4.728719)" fill="#000088">
+                            <g id="d">
+                                <g id="c" transform="translate(7.200000, 5.600000)">
+                                    <g id="b" transform="translate(4.400000, 1.200000)">
+                                        <g id="a" transform="translate(2.000000, 0.400000)">
+                                            <circle id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" r="0.35"></circle>
+                                            <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                        </g>
+                                        <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                            <g id="a">
+                                                <circle id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" r="0.35"></circle>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="b-link" transform="translate(6.751666, 6.483717) rotate(30.000000) translate(-6.751666, -6.483717) translate(1.751666, 1.883717)">
+                                        <g id="b">
+                                            <g id="a" transform="translate(2.000000, 0.400000)">
+                                                <circle id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" r="0.35"></circle>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                            <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                <g id="a">
+                                                    <circle id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" r="0.35"></circle>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="c-link" transform="translate(9.523463, 9.846410) rotate(60.000000) translate(-9.523463, -9.846410) translate(2.323463, 3.246410)">
+                                    <g id="c">
+                                        <g id="b" transform="translate(4.400000, 1.200000)">
+                                            <g id="a" transform="translate(2.000000, 0.400000)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                            <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                <g id="a">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="b-link" transform="translate(6.751666, 6.483717) rotate(30.000000) translate(-6.751666, -6.483717) translate(1.751666, 1.883717)">
+                                            <g id="b">
+                                                <g id="a" transform="translate(2.000000, 0.400000)">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                                <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                    <g id="a">
+                                                        <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                        <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="d-link" transform="translate(20.270319, 18.182051) rotate(240.000000) translate(-20.270319, -18.182051) translate(9.270319, 7.682051)" fill="#000088">
+                            <g id="d" transform="translate(0.000000, -0.000000)">
+                                <g id="c" transform="translate(6.200000, 3.600000)">
+                                    <g id="b" transform="translate(3.400000, 2.200000)">
+                                        <g id="a" transform="translate(3.000000, 0.400000)">
+                                            <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                            <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                        </g>
+                                        <g id="a-link" transform="translate(5.384481, 4.578335) rotate(15.000000) translate(-5.384481, -4.578335) translate(0.884481, 1.078335)">
+                                            <g id="a" transform="translate(0.998179, -0.008711)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="b-link" transform="translate(7.237457, 7.638660) rotate(30.000000) translate(-7.237457, -7.638660) translate(1.737457, 3.138660)">
+                                        <g id="b" transform="translate(0.001821, 0.008711)">
+                                            <g id="a" transform="translate(2.000000, 0.400000)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                            <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                <g id="a">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="c-link" transform="translate(10.222351, 10.508872) rotate(60.000000) translate(-10.222351, -10.508872) translate(2.722351, 3.508872)">
+                                    <g id="c" transform="translate(0.010822, 1.040049)">
+                                        <g id="b" transform="translate(2.400000, 1.200000)">
+                                            <g id="a" transform="translate(2.000000, 0.400000)">
+                                                <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                            </g>
+                                            <g id="a-link" transform="translate(4.893821, 4.602267) rotate(15.000000) translate(-4.893821, -4.602267) translate(0.893821, 1.202267)">
+                                                <g id="a">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="b-link" transform="translate(6.791791, 6.928564) rotate(30.000000) translate(-6.791791, -6.928564) translate(1.791791, 2.928564)">
+                                            <g id="b" transform="translate(0.010776, 0.034813)">
+                                                <g id="a" transform="translate(-0.000000, 0.400000)">
+                                                    <ellipse id="Oval" transform="translate(7.340156, 0.513686) rotate(7.500000) translate(-7.340156, -0.513686) " cx="7.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    <polygon id="Shape" points="0.41 6.6 0.66 2.4 0.41 0.4 0.16 2.4"></polygon>
+                                                </g>
+                                                <g id="a-link" transform="translate(7.112390, 2.149988) rotate(15.000000) translate(-7.112390, -2.149988) translate(5.612390, 1.149988)">
+                                                    <g id="a" transform="translate(0.059871, 1.060566)">
+                                                        <ellipse id="Oval" transform="translate(1.340156, 0.513686) rotate(7.500000) translate(-1.340156, -0.513686) " cx="1.34015568" cy="0.513686075" rx="0.35" ry="0.35"></ellipse>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <path d="M60.9500008,28.6936241 L61.2000008,24.8366529 L60.9500008,23 L60.7000008,24.8366529 L60.9500008,28.6936241 Z M61.2881157,28.7381377 L62.5278548,25.0772945 L62.7617341,23.2385192 L62.0448919,24.9478849 L61.2881157,28.7381377 Z M61.6031887,28.8686452 L63.7481807,25.6534103 L64.4500008,23.9378222 L63.315168,25.4034103 L61.6031887,28.8686452 Z M61.8737481,29.0762527 L64.7778152,26.525739 L65.8997482,25.0502525 L64.4242618,26.1721856 L61.8737481,29.0762527 Z M62.0813555,29.346812 L65.5465905,27.6348328 L67.0121786,26.5 L65.2965905,27.2018201 L62.0813555,29.346812 Z M62.211863,29.661885 L66.0021158,28.9051089 L67.7114815,28.1882667 L65.8727063,28.422146 L62.211863,29.661885 Z M62.2563767,30 L66.1133478,30.25 L67.9500008,30 L66.1133478,29.75 L62.2563767,30 Z M62.211863,30.338115 L65.8727063,31.577854 L67.7114815,31.8117333 L66.0021158,31.0948911 L62.211863,30.338115 Z M62.0813555,30.653188 L65.2965905,32.7981799 L67.0121786,33.5 L65.5465905,32.3651672 L62.0813555,30.653188 Z M61.8737481,30.9237473 L64.4242618,33.8278144 L65.8997482,34.9497475 L64.7778152,33.474261 L61.8737481,30.9237473 Z M61.6031887,31.1313548 L63.315168,34.5965897 L64.4500008,36.0621778 L63.7481807,34.3465897 L61.6031887,31.1313548 Z M61.2881157,31.2618623 L62.0448919,35.0521151 L62.7617341,36.7614808 L62.5278548,34.9227055 L61.2881157,31.2618623 Z M60.9500008,31.3063759 L60.7000008,35.1633471 L60.9500008,37 L61.2000008,35.1633471 L60.9500008,31.3063759 Z M60.6118858,31.2618623 L59.3721467,34.9227055 L59.1382674,36.7614808 L59.8551097,35.0521151 L60.6118858,31.2618623 Z M60.2968128,31.1313548 L58.1518209,34.3465897 L57.4500008,36.0621778 L58.5848336,34.5965897 L60.2968128,31.1313548 Z M60.0262535,30.9237473 L57.1221863,33.474261 L56.0002533,34.9497475 L57.4757397,33.8278144 L60.0262535,30.9237473 Z M59.818646,30.653188 L56.353411,32.3651672 L54.8878229,33.5 L56.603411,32.7981799 L59.818646,30.653188 Z M59.6881385,30.338115 L55.8978857,31.0948911 L54.18852,31.8117333 L56.0272952,31.577854 L59.6881385,30.338115 Z M59.6436248,30 L55.7866537,29.75 L53.9500008,30 L55.7866537,30.25 L59.6436248,30 Z M59.6881385,29.661885 L56.0272952,28.422146 L54.18852,28.1882667 L55.8978857,28.9051089 L59.6881385,29.661885 Z M59.818646,29.346812 L56.603411,27.2018201 L54.8878229,26.5 L56.353411,27.6348328 L59.818646,29.346812 Z M60.0262535,29.0762527 L57.4757397,26.1721856 L56.0002533,25.0502525 L57.1221863,26.525739 L60.0262535,29.0762527 Z M60.2968128,28.8686452 L58.5848336,25.4034103 L57.4500008,23.9378222 L58.1518209,25.6534103 L60.2968128,28.8686452 Z M60.6118858,28.7381377 L59.8551097,24.9478849 L59.1382674,23.2385192 L59.3721467,25.0772945 L60.6118858,28.7381377 Z" id="Shape" fill="#000088"></path>
+            </g>
         </g>
-        <use height="100%" width="100%" xlink:href="#b" transform="rotate(30)"/>
-      </g>
-      <use height="100%" width="100%" xlink:href="#c" transform="rotate(60)"/>
     </g>
-    <use height="100%" width="100%" xlink:href="#d" transform="rotate(120)"/>
-    <use height="100%" width="100%" xlink:href="#d" transform="rotate(-120)"/>
-  </g>
 </svg>

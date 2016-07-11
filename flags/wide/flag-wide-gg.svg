@@ -1,18 +1,23 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="-18 -12 36 24">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-18-13.5h36v27h-36z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)">
-    <path fill="#fff" d="M-18-18h36v36h-36z"/>
-    <path fill="#fff" d="M-18-13.5h36v27h-36z"/>
-    <path d="M0-21.586v43.172M-21.586 0h43.172" stroke="#e8112d" stroke-width="7.195" fill="none"/>
-    <g transform="scale(1.75)">
-      <path id="b" fill="#f9dd16" d="M-6.75 1.5L-6 .75H.75v-1.5H-6l-.75-.75z"/>
-      <use xlink:href="#b" transform="rotate(90)" height="24" width="36"/>
-      <use xlink:href="#b" transform="rotate(-90)" height="24" width="36"/>
-      <use xlink:href="#b" transform="scale(-1)" height="24" width="36"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>gg</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gg">
+            <g>
+                <g id="Group" fill="#E8112D">
+                    <rect id="Rectangle-124-Copy" x="53" y="0" width="15.5555556" height="60"></rect>
+                    <rect id="Rectangle-124" x="0" y="22" width="122" height="15.5555556"></rect>
+                </g>
+                <g id="Group-2" transform="translate(33.000000, 2.000000)" fill="#F9DD16">
+                    <polygon id="b" points="0 32.8192308 2.49711538 30.3221154 24.9711538 30.3221154 24.9711538 25.3278846 2.49711538 25.3278846 0 22.8307692"></polygon>
+                    <polygon id="b" transform="translate(27.706090, 15.559455) rotate(90.000000) translate(-27.706090, -15.559455) " points="12.2655447 20.5536861 14.76266 18.0565707 43.1466348 18.0565709 43.1466348 13.0623399 14.76266 13.06234 12.2655447 10.5652246"></polygon>
+                    <polygon id="b" transform="translate(27.706090, 43.045513) rotate(-90.000000) translate(-27.706090, -43.045513) " points="15.2205128 48.0397436 17.7176282 45.5426282 40.1916667 45.5426282 40.1916667 40.5483974 17.7176282 40.5483974 15.2205128 38.0512821"></polygon>
+                    <polygon id="b" transform="translate(39.706090, 27.825000) rotate(180.000000) translate(-39.706090, -27.825000) " points="23.9999995 32.8192308 26.4971149 30.3221154 55.4121795 30.3221156 55.4121795 25.3278846 26.4971149 25.3278846 23.9999995 22.8307692"></polygon>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

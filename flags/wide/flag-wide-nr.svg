@@ -1,12 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-54.667 0h682.67v512h-682.67z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(51.25) scale(.9375)" stroke-width="1pt">
-    <path fill="#002170" d="M-140 0H884v512H-140z"/>
-    <path fill="#ffb20d" d="M-140 234.11H884v43.783H-140z"/>
-    <path fill="#fff" d="M161.81 437.989l-32.916-32.971-10.604 45.363-12.008-45.015-31.875 33.978 12.107-44.989-44.59 13.498 32.972-32.907-45.365-10.613 45.016-12.008L40.56 320.45l44.989 12.108-13.49-44.591 32.907 32.971 10.614-45.364 12.008 45.015 31.866-33.977-12.098 44.988 44.59-13.498-32.98 32.908 45.363 10.613-45.015 12.009 33.987 31.874-44.989-12.108z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>nr</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nr">
+            <g>
+                <rect id="Rectangle-191" fill="#002170" x="0" y="0" width="122" height="60"></rect>
+                <polygon id="Shape" fill="#FFFFFF" points="33.2281494 48.1189087 29.6118896 44.4966064 28.4468994 49.4803345 27.1276611 44.5348389 23.625769 48.2677734 24.9558838 43.3251343 20.0570801 44.8080688 23.6794922 41.1927979 18.6955444 40.0268188 23.6411499 38.7075806 19.9072266 35.2056885 24.8498657 36.5359131 23.3678101 31.6369995 26.9830811 35.2593018 28.1491699 30.2754639 29.4684082 35.2209595 32.9693115 31.4881348 31.6401855 36.4306641 36.5389893 34.9477295 32.9156982 38.5631104 37.8994263 39.7290894 32.9539307 41.0484375 36.687854 44.5502197 31.7452148 43.2199951"></polygon>
+                <rect id="Rectangle-192" fill="#FFB20D" x="0" y="25.7199993" width="122" height="4.80999994"></rect>
+            </g>
+        </g>
+    </g>
 </svg>

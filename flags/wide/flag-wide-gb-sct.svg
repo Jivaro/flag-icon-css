@@ -1,4 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <path fill="#0065bd" d="M0 0h640v480H0z"/>
-  <path d="M0 0l5 3M0 3l5-3" stroke="#fff" stroke-width=".6" transform="scale(128 160)"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>gb-sct</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gb-sct">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#0065BD" points="0 0 122 0 122 60 0 60"></polygon>
+                    <polygon id="Rectangle-122" fill="#FFFFFF" points="28 0 108 60 94 60 14 0"></polygon>
+                    <polygon id="Rectangle-122-Copy" fill="#FFFFFF" points="108 0 28 60 14 60 94 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

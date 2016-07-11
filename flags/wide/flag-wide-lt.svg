@@ -1,7 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <g fill-rule="evenodd" transform="matrix(.64143 0 0 .96773 0 0)" stroke-width="1pt">
-    <rect transform="matrix(.93865 0 0 .69686 0 0)" rx="0" ry="0" width="1063" height="708.66" fill="#007308"/>
-    <rect transform="matrix(.93865 0 0 .69686 0 0)" rx="0" ry="0" width="1063" y="475.56" height="236.22" fill="#bf0000"/>
-    <path fill="#ffb300" d="M0 0h997.77v164.61H0z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>lt</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="lt">
+            <g id="Group">
+                <g>
+                    <rect id="Rectangle-path" fill="#007308" x="0" y="20" width="122" height="20"></rect>
+                    <rect id="Rectangle-path" fill="#BF0000" x="0" y="40" width="122" height="20"></rect>
+                    <polygon id="Shape" fill="#FFB300" points="0 0 122 0 122 20 0 20"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

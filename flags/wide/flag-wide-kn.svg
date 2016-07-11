@@ -1,14 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M-80.109 0h682.67v512h-682.67z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)" transform="translate(75.102) scale(.9375)">
-    <path fill="#ffe900" d="M-107.85.239H629.8v511.29h-737.65z"/>
-    <path d="M-108.24.239l.86 368.58L466.6-.001l-574.84.238z" fill="#35a100"/>
-    <path d="M630.69 511.53l-1.347-383.25-578.98 383.54 580.33-.283z" fill="#c70000"/>
-    <path d="M-107.87 396.61l.49 115.39 125.25-.16L629.63 101.7l-.69-100.32L505.18.239l-613.05 396.37z"/>
-    <path fill="#fff" d="M380.455 156.62l-9.913-42.245 33.354 27.075 38.014-24.636-17.437 41.311 33.404 27.021-44.132-1.541-17.37 41.333-9.835-42.265-44.138-1.48zM105.21 335.53l-9.913-42.245 33.354 27.075 38.014-24.636-17.437 41.311 33.404 27.021-44.132-1.541-17.37 41.333-9.835-42.265-44.138-1.48z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>kn</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kn">
+            <g>
+                <polygon id="Rectangle-147" fill="#35A100" points="0 0 88 0 0 56 0 9"></polygon>
+                <polygon id="Rectangle-147-Copy" fill="#C70000" points="119 0 122 0 122 60 30 60"></polygon>
+                <polygon id="Rectangle-149" fill="#FFE900" points="83 4.13419299e-14 122 -9.94420046e-10 122 1 34 60 0 60 0 53"></polygon>
+                <polygon id="Rectangle-149-Copy" fill="#000000" points="88 0 119 0 30 60 0 60 0 56"></polygon>
+                <path d="M72.670538,17.7049107 L71.5152048,12.7720799 L75.4025229,15.9335521 L79.8329513,13.0568751 L77.8007163,17.8806454 L81.6938618,21.0358122 L76.5503971,20.8558739 L74.5259707,25.682213 L73.3797282,20.7470468 L68.2355642,20.5742314 L72.670538,17.7049107 Z M40.591481,38.5957323 L39.4361478,33.6629015 L43.3234659,36.8243738 L47.7538943,33.9476968 L45.7216593,38.771467 L49.6148048,41.9266338 L44.47134,41.7466955 L42.4469137,46.5730346 L41.3006712,41.6378685 L36.1565072,41.465053 L40.591481,38.5957323 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
 </svg>

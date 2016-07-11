@@ -1,13 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path d="M166.67-20h666.67v500H166.67z"/>
-    </clipPath>
-  </defs>
-  <g clip-path="url(#a)" transform="matrix(.96 0 0 .96 -160 19.2)">
-    <path fill="#239e46" d="M0-20h1000v500H0z"/>
-    <path d="M0-20h1000v375H0z"/>
-    <path fill="#e70013" d="M0-20h1000v125H0z"/>
-    <path d="M544.2 185.8a54.3 54.3 0 1 0 0 88.4 62.5 62.5 0 1 1 0-88.4M530.4 230l84.1-27.3-52 71.5v-88.4l52 71.5z" fill="#fff"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>ly</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ly">
+            <g>
+                <rect id="Rectangle-171" fill="#E70013" x="0" y="0" width="122" height="15"></rect>
+                <rect id="Rectangle-171-Copy-2" fill="#239E46" x="0" y="45" width="122" height="15"></rect>
+                <rect id="Rectangle-171-Copy" fill="#000000" x="0" y="15" width="122" height="30"></rect>
+                <path d="M63.2904976,25.10816 C60.6954555,23.2563307 57.1229057,23.652353 54.9964375,26.0275683 C52.8699693,28.4027837 52.8699693,31.9972163 54.9964375,34.3724317 C57.1229057,36.747647 60.6954555,37.1436693 63.2904976,35.29184 C60.4785268,38.1030694 55.920084,38.1026688 53.1086074,35.2909451 C50.2971309,32.4792214 50.2971309,27.9207786 53.1086074,25.1090549 C55.920084,22.2973312 60.4785268,22.2969306 63.2904976,25.10816 L63.2904976,25.10816 Z M61.7007376,30.2 L71.3890576,27.05504 L65.3986576,35.29184 L65.3986576,25.10816 L71.3890576,33.34496 L61.7007376,30.2 Z" id="Shape" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
 </svg>

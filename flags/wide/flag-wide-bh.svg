@@ -1,11 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M0 0h640v480H0z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" stroke-width="1pt" clip-path="url(#a)">
-    <path fill="#e10011" d="M-32.5 0h720v480h-720z"/>
-    <path d="M114.25 479.77L-32.5 480V0l146.06.075 94.242 30.306-93.554 29.542 93.554 30.458-93.554 29.542 93.554 30.458-93.554 29.54 93.554 30.46-93.554 29.54 93.554 30.46-93.554 29.54 93.554 30.46-93.554 29.54 93.554 30.46-93.554 29.54 93.554 30.46-93.554 29.54" fill="#fff"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #E10011;">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>bh</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="bh" fill="#FFFFFF">
+            <g transform="translate(-1.000000, 0.000000)" id="Clipped">
+                <g>
+                    <g id="Group" transform="translate(0.847002, 0.000000)">
+                        <polygon id="Shape" points="0.152998179 60 0.152998179 0 15.3615236 0 27.1529982 3.797625 15.4476055 7.490375 27.1529982 11.297625 15.4476055 14.990375 27.1529982 18.797625 15.4476055 22.490125 27.1529982 26.297625 15.4476055 29.990125 27.1529982 33.797625 15.4476055 37.490125 27.1529982 41.297625 15.4476055 44.990125 27.1529982 48.797625 15.4476055 52.490125 27.1529982 56.297625 15.4476055 60"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

@@ -1,9 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <g fill-rule="evenodd" stroke-width="1pt">
-    <path fill="#d52b1e" d="M0 0h640v480H0z"/>
-    <g fill="#fff">
-      <path d="M170 194.997h299.996v89.997H170z"/>
-      <path d="M275 89.997h89.996v299.996H275z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>ch</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ch">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#D52B1E" points="0 0 122 0 122 60 0 60"></polygon>
+                    <g transform="translate(42.250000, 11.125000)" id="Shape" fill="#FFFFFF">
+                        <polygon points="0 13.249625 37.4995 13.249625 37.4995 24.49925 0 24.49925"></polygon>
+                        <polygon points="13.125 0.124625 24.3745 0.124625 24.3745 37.624125 13.125 37.624125"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
     </g>
-  </g>
 </svg>

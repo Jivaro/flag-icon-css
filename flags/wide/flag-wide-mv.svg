@@ -1,6 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <path fill="#d21034" d="M0 0h640v480H0z"/>
-  <path fill="#007e3a" d="M120 120h400v240H120z"/>
-  <circle r="80" cy="240" cx="350" fill="#fff"/>
-  <circle r="80" cy="240" cx="380" fill="#007e3a"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>mv</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mv">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#D21034" points="0 0 122 0 122 60 0 60"></polygon>
+                    <polygon id="Shape" fill="#007E3A" points="36 15 86 15 86 45 36 45"></polygon>
+                    <circle id="Oval" fill="#FFFFFF" cx="64.75" cy="30" r="10"></circle>
+                    <circle id="Oval" fill="#007E3A" cx="68.5" cy="30" r="10"></circle>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

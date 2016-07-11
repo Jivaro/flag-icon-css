@@ -1,12 +1,20 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640">
-  <defs>
-    <clipPath id="a">
-      <path fill-opacity=".67" d="M0 0h640v480H0z"/>
-    </clipPath>
-  </defs>
-  <g fill-rule="evenodd" clip-path="url(#a)">
-    <path fill="#e90012" d="M-40 0h720v480H-40z"/>
-    <path fill="#003dd2" d="M-40 119.26h720v241.48H-40z"/>
-    <path d="M423.42 239.998a103.419 103.419 0 1 1-206.838 0 103.419 103.419 0 1 1 206.837 0z" fill="#fff"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>la</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="la">
+            <g id="Clipped">
+                <g>
+                    <g id="Group">
+                        <polygon id="Shape" fill="#E90012" points="0 0 122 0 122 60 0 60"></polygon>
+                        <polygon id="Shape" fill="#003DD2" points="0 14.9075 122 14.9075 122 45.0925 0 45.0925"></polygon>
+                        <path d="M73.9275,29.99975 C73.9275,37.1393421 68.1397171,42.927125 61.000125,42.927125 C53.8605329,42.927125 48.07275,37.1393421 48.07275,29.99975 C48.0583587,25.3716904 50.5191383,21.0890163 54.5247742,18.7708221 C58.53041,16.452628 63.469715,16.452628 67.4753508,18.7708221 C71.4809867,21.0890163 73.9417663,25.3716904 73.927375,29.99975 L73.9275,29.99975 Z" id="Shape" fill="#FFFFFF"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

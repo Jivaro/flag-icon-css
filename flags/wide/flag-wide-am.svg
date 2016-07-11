@@ -1,5 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" viewBox="0 0 0.5160635 3.096381">
-  <path fill="red" d="M-1.806 0h4.128v1.032h-4.128z"/>
-  <path fill="#00f" d="M-1.806 1.032h4.128v1.032h-4.128z"/>
-  <path fill="orange" d="M-1.806 2.064h4.128v1.032h-4.128z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>am</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="am">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#FF0000" points="0 0 122 0 122 20 0 20"></polygon>
+                    <polygon id="Shape" fill="#0000FF" points="0 20 122 20 122 40 0 40"></polygon>
+                    <polygon id="Shape" fill="#FFA500" points="0 40 122 40 122 60 0 60"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

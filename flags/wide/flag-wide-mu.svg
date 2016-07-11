@@ -1,8 +1,19 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill-opacity="14.118" height="480" width="640" fill="#28ff09">
-  <g fill-rule="evenodd" fill-opacity="1">
-    <path fill="#009a00" d="M0 360h640v120H0z"/>
-    <path fill="#00f" d="M0 120h640v120H0z"/>
-    <path fill="red" d="M0 0h640v120H0z"/>
-    <path fill="#ff0" d="M0 240h640v120H0z"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>mu</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="mu">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#009A00" points="0 45 122 45 122 60 0 60"></polygon>
+                    <polygon id="Shape" fill="#0000FF" points="0 15 122 15 122 30 0 30"></polygon>
+                    <polygon id="Shape" fill="#FF0000" points="0 0 122 0 122 15 0 15"></polygon>
+                    <polygon id="Shape" fill="#FFFF00" points="0 30 122 30 122 45 0 45"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

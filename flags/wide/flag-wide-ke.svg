@@ -1,23 +1,54 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" height="480" width="640">
-  <defs>
-    <path stroke-miterlimit="10" d="M-28.58 47.5l1.733 1 46.713-80.91c2.732-.73 4.232-3.33 5.732-5.927 1-1.732 5-8.66 6.734-17.663-6.93 6.003-10.93 12.93-11.93 14.663-1.5 2.598-3 5.196-2.268 7.928z" id="a"/>
-  </defs>
-  <path d="M0 0h640v480H0z" fill="#fff"/>
-  <path d="M0 0h640v144H0z"/>
-  <path d="M0 336h640v144H0z" fill="#060"/>
-  <g id="b" transform="matrix(3 0 0 3 320 240)">
-    <use height="100%" width="100%" xlink:href="#a" stroke="#000"/>
-    <use height="100%" width="100%" xlink:href="#a" fill="#fff"/>
-  </g>
-  <use height="100%" width="100%" xlink:href="#b" transform="matrix(-1 0 0 1 640 0)"/>
-  <path d="M640.5 168H377c-9-24-39-72-57-72s-48 48-57 72H-.227v144H263c9 24 39 72 57 72s48-48 57-72h263.5V168z" fill="#b00"/>
-  <path id="c" d="M377 312c9-24 15-48 15-72s-6-48-15-72c-9 24-15 48-15 72s6 48 15 72"/>
-  <use height="100%" width="100%" xlink:href="#c" transform="matrix(-1 0 0 1 640 0)"/>
-  <g transform="matrix(3 0 0 3 320 240)" fill="#fff">
-    <ellipse rx="4" ry="6"/>
-    <path id="d" d="M1 5.85s4 8 4 21-4 21-4 21z"/>
-    <use height="100%" width="100%" xlink:href="#d" transform="scale(-1)"/>
-    <use height="100%" width="100%" xlink:href="#d" transform="scale(-1 1)"/>
-    <use height="100%" width="100%" xlink:href="#d" transform="scale(1 -1)"/>
-  </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>ke</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ke">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#FFFFFF" points="21.125 0 101.125 0 101.125 60 21.125 60"></polygon>
+                    <polygon id="Shape" fill="#000000" points="0 0 122 0 122 18 0 18"></polygon>
+                    <polygon id="Shape" fill="#006600" points="0 42 122 42 122 60 0 60"></polygon>
+                    <g id="b" transform="translate(50.250000, 9.000000)">
+                        <g id="a-link" stroke="#000000" stroke-width="3" fill="#000000">
+                            <path d="M0.1575,38.8125 L0.807375,39.1875 L18.32475,8.84625 C19.34925,8.5725 19.91175,7.5975 20.47425,6.623625 C20.84925,5.974125 22.34925,3.376125 22.9995,0 C20.40075,2.251125 18.90075,4.84875 18.52575,5.498625 C17.96325,6.472875 17.40075,7.447125 17.67525,8.471625 L0.1575,38.8125 Z" id="a"></path>
+                        </g>
+                        <g id="a-link" fill="#FFFFFF">
+                            <path d="M0.1575,38.8125 L0.807375,39.1875 L18.32475,8.84625 C19.34925,8.5725 19.91175,7.5975 20.47425,6.623625 C20.84925,5.974125 22.34925,3.376125 22.9995,0 C20.40075,2.251125 18.90075,4.84875 18.52575,5.498625 C17.96325,6.472875 17.40075,7.447125 17.67525,8.471625 L0.1575,38.8125 Z" id="a"></path>
+                        </g>
+                    </g>
+                    <g id="b-link" transform="translate(60.375000, 28.687500) scale(-1, 1) translate(-60.375000, -28.687500) translate(48.750000, 9.000000)">
+                        <g id="b">
+                            <g id="a-link" stroke="#000000" stroke-width="3" fill="#000000">
+                                <path d="M0.1575,38.8125 L0.807375,39.1875 L18.32475,8.84625 C19.34925,8.5725 19.91175,7.5975 20.47425,6.623625 C20.84925,5.974125 22.34925,3.376125 22.9995,0 C20.40075,2.251125 18.90075,4.84875 18.52575,5.498625 C17.96325,6.472875 17.40075,7.447125 17.67525,8.471625 L0.1575,38.8125 Z" id="a"></path>
+                            </g>
+                            <g id="a-link" fill="#FFFFFF">
+                                <path d="M0.1575,38.8125 L0.807375,39.1875 L18.32475,8.84625 C19.34925,8.5725 19.91175,7.5975 20.47425,6.623625 C20.84925,5.974125 22.34925,3.376125 22.9995,0 C20.40075,2.251125 18.90075,4.84875 18.52575,5.498625 C17.96325,6.472875 17.40075,7.447125 17.67525,8.471625 L0.1575,38.8125 Z" id="a"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M68.25,21 C67.125,18 63.375,12 61.125,12 C58.875,12 55.125,18 54,21 L0,21 L0,39 L54,39 C55.125,42 58.875,48 61.125,48 C63.375,48 67.125,42 68.25,39 L122,39 L122,21 L68.25,21 Z" id="Shape" fill="#BB0000"></path>
+                    <path d="M68.25,39 C69.375,36 70.125,33 70.125,30 C70.125,27 69.375,24 68.25,21 C67.125,24 66.375,27 66.375,30 C66.375,33 67.125,36 68.25,39" id="c" fill="#000000"></path>
+                    <g id="c-link" transform="translate(54.000000, 30.000000) scale(-1, 1) translate(-54.000000, -30.000000) translate(52.125000, 21.000000)" fill="#000000">
+                        <path d="M1.875,18 C3,15 3.75,12 3.75,9 C3.75,6 3,3 1.875,0 C0.75,3 0,6 0,9 C0,12 0.75,15 1.875,18" id="c"></path>
+                    </g>
+                    <g transform="translate(59.250000, 12.000000)" fill="#FFFFFF">
+                        <ellipse id="Oval" cx="1.875" cy="18" rx="1.5" ry="2.25"></ellipse>
+                        <path d="M2.25,20.19375 C2.25,20.19375 3.75,23.19375 3.75,28.06875 C3.75,32.94375 2.25,35.94375 2.25,35.94375 L2.25,20.19375 Z" id="d"></path>
+                        <g id="d-link" transform="translate(0.750000, 8.062500) scale(-1, -1) translate(-0.750000, -8.062500) ">
+                            <path d="M0,0.31875 C0,0.31875 1.5,3.31875 1.5,8.19375 C1.5,13.06875 0,16.06875 0,16.06875 L0,0.31875 Z" id="d"></path>
+                        </g>
+                        <g id="d-link" transform="translate(0.750000, 27.937500) scale(-1, 1) translate(-0.750000, -27.937500) translate(0.000000, 19.875000)">
+                            <path d="M0,0.31875 C0,0.31875 1.5,3.31875 1.5,8.19375 C1.5,13.06875 0,16.06875 0,16.06875 L0,0.31875 Z" id="d"></path>
+                        </g>
+                        <g id="d-link" transform="translate(3.000000, 8.062500) scale(1, -1) translate(-3.000000, -8.062500) translate(2.250000, 0.000000)">
+                            <path d="M0,0.31875 C0,0.31875 1.5,3.31875 1.5,8.19375 C1.5,13.06875 0,16.06875 0,16.06875 L0,0.31875 Z" id="d"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>

@@ -1,5 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="480" width="640" version="1">
-  <path fill="#078930" d="M0 0h640v480z"/>
-  <path fill="#fcdd09" d="M0 0l640 480H0z"/>
-  <path fill="#da121a" d="M252.37 218.025h135.26L278.203 297.53 320 168.89l41.798 128.64z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <title>gf</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="gf">
+            <g id="Group">
+                <g>
+                    <polygon id="Shape" fill="#078930" points="21 0 122 0 122 60 101 60"></polygon>
+                    <polygon id="Shape" fill="#FCDD09" points="0 0 21 0 101 60 0 60"></polygon>
+                    <polygon id="Shape" fill="#DA121A" points="52.54625 27.253125 69.45375 27.253125 55.775375 37.19125 61 21.11125 66.22475 37.19125"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
 </svg>
