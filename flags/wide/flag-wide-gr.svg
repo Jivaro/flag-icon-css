@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg width="122px" height="60px" viewBox="0 0 122 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <!-- Generator: Sketch 3.8.2 (29753) - http://www.bohemiancoding.com/sketch -->
+    <!-- Generator: Sketch 39 (31667) - http://www.bohemiancoding.com/sketch -->
     <title>gr</title>
     <desc>Created with Sketch.</desc>
     <defs></defs>
@@ -10,9 +10,9 @@
                 <g>
                     <g id="Group">
                         <polygon id="Shape" fill="#0D5EAF" points="0 0 122 0 122 6.6625 0 6.6625"></polygon>
-                        <polygon id="Shape" fill="#FFFFFF" points="0 6.6625 90.4352459 6.6625 90.4352459 13.325 0 13.325"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 6.6625 122 6.6625 122 13.325 0 13.325"></polygon>
                         <polygon id="Shape" fill="#0D5EAF" points="0 13.325 122 13.325 122 19.9875 0 19.9875"></polygon>
-                        <polygon id="Shape" fill="#FFFFFF" points="0 19.9875 90.4352459 19.9875 90.4352459 26.65 0 26.65"></polygon>
+                        <polygon id="Shape" fill="#FFFFFF" points="0 19.9875 122 19.9875 122 26.65 0 26.65"></polygon>
                         <polygon id="Shape" fill="#0D5EAF" points="0 26.65 122 26.65 122 33.3125 0 33.3125"></polygon>
                         <polygon id="Shape" fill="#FFFFFF" points="0 33.3125 122 33.3125 122 39.975 0 39.975"></polygon>
                         <polygon id="Shape" fill="#0D5EAF" points="0 39.975 122 39.975 122 46.6375 0 46.6375"></polygon>
